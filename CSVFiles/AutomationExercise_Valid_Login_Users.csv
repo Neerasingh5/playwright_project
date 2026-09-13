@@ -1,3 +1,0 @@
-TestCaseID,Username,Password,ExpectedResult
-TC001,neerajsingh41150@gmail.com,Neeraj@123,Login successful
-TC002,invalid_user_automation_41150@test.com,WrongPass123!,Login failed
