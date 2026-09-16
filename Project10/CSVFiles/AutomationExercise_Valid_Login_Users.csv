@@ -1,0 +1,5 @@
+TestCaseID,Username,Password,ExpectedResult
+TC001,neerajsingh41150@gmail.com,Neeraj@123,Login successful
+TC002,invalid_user_automation_41150@test.com,Neeraj@123,Login failed
+TC003,neerajsingh41150@gmail.com,WrongPassword@999,Login failed
+TC004,completely_fake_user_99@example.com,FakePass456!,Login failed
